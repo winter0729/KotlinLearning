@@ -114,4 +114,6 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
-*/Config.kt
+src/main/kotlin/com/github/winter0729/kotlinLearning/Config.kt
+src/main/resources/
+src/test/
